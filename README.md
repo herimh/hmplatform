@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -70,3 +71,7 @@ Enjoy!
 [11]: https://symfony.com/doc/2.7/cookbook/logging/monolog.html
 [12]: https://symfony.com/doc/2.7/cookbook/assetic/asset_management.html
 [13]: https://symfony.com/doc/2.7/bundles/SensioGeneratorBundle/index.html
+=======
+# hmplatform
+Demo sobre una plataforma, para subir, descargar y compartir documentos
+>>>>>>> ecd6a1f260af73fa1a9b4b95d8c3356602b801f8
